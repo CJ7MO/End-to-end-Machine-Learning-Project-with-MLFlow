@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Documents/GitHub/End-to-end-Machine-Learning-Project-with-MLFlow/mlruns/0/7708ea3082f64c11bbc3599627a73d3c/artifacts
+end_time: 1715578914140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7708ea3082f64c11bbc3599627a73d3c
+run_name: monumental-pig-974
+run_uuid: 7708ea3082f64c11bbc3599627a73d3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715578912080
+status: 3
+tags: []
+user_id: CJMO

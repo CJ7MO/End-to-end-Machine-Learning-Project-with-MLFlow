@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Documents/GitHub/End-to-end-Machine-Learning-Project-with-MLFlow/mlruns/0/dea0b6cbdd6e46178d86e479fad12134/artifacts
+end_time: 1715608291283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dea0b6cbdd6e46178d86e479fad12134
+run_name: spiffy-fox-960
+run_uuid: dea0b6cbdd6e46178d86e479fad12134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715608288833
+status: 3
+tags: []
+user_id: CJMO

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Documents/GitHub/End-to-end-Machine-Learning-Project-with-MLFlow/mlruns/0/c03f722e419b405893308a27145afeae/artifacts
+end_time: 1715608263317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c03f722e419b405893308a27145afeae
+run_name: charming-boar-34
+run_uuid: c03f722e419b405893308a27145afeae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715608261139
+status: 3
+tags: []
+user_id: CJMO

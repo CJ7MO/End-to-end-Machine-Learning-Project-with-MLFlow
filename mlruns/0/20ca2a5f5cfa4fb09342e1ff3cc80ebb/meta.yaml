@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrator/Documents/GitHub/End-to-end-Machine-Learning-Project-with-MLFlow/mlruns/0/20ca2a5f5cfa4fb09342e1ff3cc80ebb/artifacts
+end_time: 1715608443199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20ca2a5f5cfa4fb09342e1ff3cc80ebb
+run_name: languid-crow-737
+run_uuid: 20ca2a5f5cfa4fb09342e1ff3cc80ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715608441181
+status: 3
+tags: []
+user_id: CJMO
