@@ -1,1 +1,3 @@
-key: val
+ElasticNet:
+  alpha: 05
+  l1_ratio: 0.7
